@@ -14,4 +14,4 @@ This is a great project to familiarize yourself with serverless and web deployme
 - Deploying a RESTful API by using API Gateway to expose the Lambda function built in the previous step
 
 ## Architectural Diagram:
-![Alt text](reference-architecture.jpg)
+![Alt text](reference-architecture-new.jpeg)
