@@ -15,3 +15,11 @@ This is a great project to familiarize yourself with serverless and web deployme
 
 ## Architectural Diagram:
 ![Alt text](reference-architecture-new.jpeg)
+
+## Learning Outcomes
+
+- Creating this particular beginner project in AWS to explore serverless computing offers valuable cloud skills. By configuring AWS Amplify for hosting static resources, you gain experience in setting up and managing a scalable and secure infrastructure for web applications. 
+- Leveraging Cognito user pools helps you understand the process of user authentication and managing user accounts in a serverless environment. 
+- Building a Lambda function for backend processing familiarizes you with serverless functions, event triggers, and serverless architectures. 
+- Lastly, deploying a RESTful API using API Gateway enables you to expose your Lambda function and learn about API management and security. 
+- By completing this project, I was able to gain practical knowledge in serverless computing, application deployment, authentication, and API development, all of which are valuable skills in the cloud computing landscape
